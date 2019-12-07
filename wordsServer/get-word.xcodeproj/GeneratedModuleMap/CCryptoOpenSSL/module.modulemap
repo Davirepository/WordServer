@@ -1,0 +1,4 @@
+module CCryptoOpenSSL {
+    umbrella "/Users/david/Desktop/Fork/WordServer/wordsServer/.build/checkouts/crypto/Sources/CCryptoOpenSSL/include"
+    export *
+}
